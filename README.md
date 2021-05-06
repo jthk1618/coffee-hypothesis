@@ -18,3 +18,8 @@ autocorrelation with a lag of 3 days regarding exercise matches my expectations.
 This suggests to me that I can build some kind of data based habit nudging
 system system.
 
+### HRV - ARIMA
+
+Of the variables looked at from the Oura analysis, a few of them including HRV
+shows some timeseries niceness. I think I can try out some ARIMA (and the
+seasonal version) time analysis.
